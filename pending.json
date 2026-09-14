@@ -9,6 +9,12 @@
       "location": "San Francisco",
       "app_status": "Not applied",
       "job_url": "https://about.nextdoor.com/careers-list/?gh_jid=8198106"
+    },
+    {
+      "action": "update_role",
+      "company": "Nextdoor",
+      "role_title": "Data Scientist - Ads Marketplace",
+      "app_status": "Applied"
     }
   ]
 }
