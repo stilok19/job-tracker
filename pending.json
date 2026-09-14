@@ -25,6 +25,16 @@
       "location": "San Francisco",
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/ascend21/jobs/5421300008"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Chime",
+      "role_title": "Senior Data Scientist, Organic Growth",
+      "role_type": "Full-time",
+      "location": "San Francisco, CA",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/chime/jobs/8790231002"
     }
   ]
 }
