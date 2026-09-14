@@ -45,6 +45,16 @@
       "location": "Scottsdale, Arizona",
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/rdccareers/jobs/7989392003"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Faire",
+      "role_title": "Senior Applied AI/ML Scientist - Brand Growth",
+      "role_type": "Full-time",
+      "location": "San Francisco, CA",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/faire/jobs/8801507002"
     }
   ]
 }
