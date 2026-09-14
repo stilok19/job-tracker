@@ -55,6 +55,16 @@
       "location": "San Francisco, CA",
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/faire/jobs/8801507002"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "FanDuel",
+      "role_title": "Data Scientist, Market Making",
+      "role_type": "Full-time",
+      "location": "Jersey City, New Jersey",
+      "app_status": "Applied",
+      "job_url": "https://www.fanduel.careers/jobs/fanduel/data-scientist-market-making/"
     }
   ]
 }
