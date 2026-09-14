@@ -106,6 +106,13 @@
       "recruiter_name": "James Gimourginas",
       "recruiter_linkedin": "https://www.linkedin.com/in/jamesgimourginas/",
       "outreach_status": "Reached out - LinkedIn connect request"
+    },
+    {
+      "action": "update_recruiter",
+      "company": "Amazon AWS",
+      "role_title": "Applied Scientist - AWS Marketing Science",
+      "recruiter_name": "Avery Bersell",
+      "outreach_status": "Reached out - LinkedIn DM and Email (follow-up from Amazon AGI process)"
     }
   ]
 }
