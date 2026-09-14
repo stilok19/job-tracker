@@ -53,6 +53,16 @@
       "recruiter_name": "Taylor (Friedman) Posner",
       "recruiter_linkedin": "https://www.linkedin.com/in/taylorfriedmantu/",
       "outreach_status": "Reached out - LinkedIn DM"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Fanatics Commerce",
+      "role_title": "Senior Data Scientist, Marketing Science and Personalization",
+      "recruiter_name": "Kita Hudson",
+      "recruiter_email": "khudson@fanatics.com",
+      "recruiter_linkedin": "https://www.linkedin.com/in/kita-hudson/",
+      "outreach_status": "Reached out - Email"
     }
   ]
 }
