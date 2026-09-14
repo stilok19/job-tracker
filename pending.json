@@ -97,6 +97,15 @@
       "company": "Planet Fitness",
       "role_title": "Sr. Marketing Data Scientist",
       "app_status": "Applied"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Planet Fitness",
+      "role_title": "Sr. Marketing Data Scientist",
+      "recruiter_name": "James Gimourginas",
+      "recruiter_linkedin": "https://www.linkedin.com/in/jamesgimourginas/",
+      "outreach_status": "Reached out - LinkedIn connect request"
     }
   ]
 }
