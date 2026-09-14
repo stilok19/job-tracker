@@ -9,6 +9,15 @@
       "recruiter_email": "gingemansson@nextdoor.com",
       "recruiter_linkedin": "https://www.linkedin.com/in/geraldingemansson/",
       "outreach_status": "Reached out - LinkedIn DM and Email"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Nextdoor",
+      "role_title": "Data Scientist - Ads Marketplace",
+      "recruiter_name": "Stacy Song",
+      "recruiter_linkedin": "https://www.linkedin.com/in/stacy-song-8b420145/",
+      "outreach_status": "Reached out - LinkedIn connect request"
     }
   ]
 }
