@@ -81,6 +81,16 @@
       "recruiter_name": "Rod Oliveira",
       "recruiter_linkedin": "https://www.linkedin.com/in/rod-oliveira-65b7b423/",
       "outreach_status": "Reached out - LinkedIn connect request"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Planet Fitness",
+      "role_title": "Sr. Marketing Data Scientist",
+      "role_type": "Full-time",
+      "location": "Boston, MA (preferred) or Hampton, NH",
+      "app_status": "Not applied",
+      "job_url": "https://corporatecareers-planetfitness.icims.com/jobs/20527/sr.-marketing-data-scientist/job"
     }
   ]
 }
