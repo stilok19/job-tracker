@@ -143,6 +143,16 @@
       "location": "New York City",
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/voxmedia/jobs/8186509"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Scribd",
+      "role_title": "Data Scientist II",
+      "role_type": "Full-time",
+      "location": "Multiple US metros (flexible)",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/scribdinc/5c1fd186-f4e7-40d0-ae0a-d55bc4a1a47d"
     }
   ]
 }
