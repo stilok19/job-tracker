@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Tracker — Batch Add</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f7f7f5;
+      color: #1a1a1a;
+      min-height: 100vh;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 3rem 1.5rem;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 640px;
+    }
+
+    header {
+      margin-bottom: 2.5rem;
+    }
+
+    h1 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      margin-bottom: 0.35rem;
+    }
+
+    .subtitle {
+      font-size: 0.875rem;
+      color: #666;
+    }
+
+    .queue {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 2rem;
+    }
+
+    .item {
+      background: #fff;
+      border: 1px solid #e5e5e5;
+      border-radius: 10px;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      transition: border-color 0.2s;
+    }
+
+    .item.success { border-color: #4caf7d; background: #f6fdf9; }
+    .item.error { border-color: #e05c5c; background: #fff8f8; }
+    .item.running { border-color: #888; }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      background: #ccc;
+      transition: background 0.2s;
+    }
+    .item.success .dot { background: #4caf7d; }
+    .item.error .dot { background: #e05c5c; }
+    .item.running .dot { background: #888; animation: pulse 1s infinite; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .item-info { flex: 1; min-width: 0; }
+    .item-title { font-size: 0.875rem; font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .item-company { font-size: 0.75rem; color: #888; margin-top: 2px; }
+    .item-status { font-size: 0.75rem; color: #888; flex-shrink: 0; }
+    .item.success .item-status { color: #4caf7d; }
+    .item.error .item-status { color: #e05c5c; }
+
+    .btn {
+      width: 100%;
+      padding: 12px;
+      background: #1a1a1a;
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .btn:hover { opacity: 0.85; }
+    .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    .summary {
+      margin-top: 1.25rem;
+      font-size: 0.8rem;
+      color: #888;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Job Tracker — Batch Add</h1>
+    <p class="subtitle">Adds all queued roles to your Google Sheet in one go.</p>
+  </header>
+
+  <div class="queue" id="queue"></div>
+  <button class="btn" id="runBtn" onclick="runAll()">Add all to sheet</button>
+  <p class="summary" id="summary"></p>
+</div>
+
+<script>
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwpH5aYzX17YzsMA0uNBd01V0pANtGyFxIRdZNzQDPNf4a2kK2obViqkcFkfqJCQK_SYA/exec";
+
+// --- QUEUE: edit this list to add/remove roles ---
+const QUEUE = [
+  {
+    company: "Amazon",
+    role_title: "Applied Scientist - Search Ranking",
+    role_type: "Full-time",
+    location: "Seattle",
+    app_status: "Not applied",
+    job_url: "https://www.amazon.jobs/en/jobs/10493467/applied-scientist-search-ranking"
+  },
+  {
+    company: "Amazon",
+    role_title: "Applied Scientist - Ads Measurement Science",
+    role_type: "Full-time",
+    location: "New York",
+    app_status: "Not applied",
+    job_url: "https://www.amazon.jobs/en/jobs/10472836/applied-scientist-ads-measurement-science"
+  },
+  {
+    company: "Amazon",
+    role_title: "Applied Scientist II - Personalization Customer Intent Science",
+    role_type: "Full-time",
+    location: "Seattle",
+    app_status: "Not applied",
+    job_url: "https://www.amazon.jobs/en/jobs/10496447/applied-scientist-ii-personalization-customer-intent-science"
+  }
+];
+
+// Render queue items
+const queueEl = document.getElementById("queue");
+QUEUE.forEach((role, i) => {
+  queueEl.innerHTML += `
+    <div class="item" id="item-${i}">
+      <div class="dot" id="dot-${i}"></div>
+      <div class="item-info">
+        <div class="item-title">${role.role_title}</div>
+        <div class="item-company">${role.company} &middot; ${role.location}</div>
+      </div>
+      <div class="item-status" id="status-${i}">Pending</div>
+    </div>`;
+});
+
+async function runAll() {
+  const btn = document.getElementById("runBtn");
+  btn.disabled = true;
+  btn.textContent = "Running...";
+  let success = 0, failed = 0;
+
+  for (let i = 0; i < QUEUE.length; i++) {
+    const item = document.getElementById(`item-${i}`);
+    const status = document.getElementById(`status-${i}`);
+    item.className = "item running";
+    status.textContent = "Adding...";
+
+    const params = new URLSearchParams({ action: "add", date_added: new Date().toLocaleDateString("en-US"), ...QUEUE[i] });
+    const url = `${SCRIPT_URL}?${params.toString()}`;
+
+    try {
+      await fetch(url, { mode: "no-cors" });
+      item.className = "item success";
+      status.textContent = "Added";
+      success++;
+    } catch (err) {
+      item.className = "item error";
+      status.textContent = "Failed";
+      failed++;
+    }
+  }
+
+  btn.textContent = "Done";
+  document.getElementById("summary").textContent = `${success} added${failed ? `, ${failed} failed` : ""} — check your sheet to confirm.`;
+}
+</script>
+</body>
+</html>
