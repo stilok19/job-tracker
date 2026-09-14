@@ -1,3 +1,13 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Chime",
+      "role_title": "Senior Data Scientist, Marketing",
+      "recruiter_name": "Alex Mowry",
+      "recruiter_linkedin": "https://www.linkedin.com/in/ajmowry/",
+      "outreach_status": "Reached out - LinkedIn DM"
+    }
+  ]
 }
