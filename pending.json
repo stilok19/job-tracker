@@ -133,6 +133,16 @@
       "location": "San Diego, CA / Atlanta, GA / New York, NY",
       "app_status": "Applied",
       "job_url": "https://fairsquare.breezy.hr/p/25528681c973-lead-data-scientist-growth-marketing-models"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Vox Media",
+      "role_title": "Senior Data Scientist, Subscriptions",
+      "role_type": "Full-time",
+      "location": "New York City",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/voxmedia/jobs/8186509"
     }
   ]
 }
