@@ -65,6 +65,16 @@
       "location": "Jersey City, New Jersey",
       "app_status": "Applied",
       "job_url": "https://www.fanduel.careers/jobs/fanduel/data-scientist-market-making/"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Chime",
+      "role_title": "Senior Data Scientist, Marketing",
+      "role_type": "Full-time",
+      "location": "San Francisco, CA",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/chime/jobs/8721885002"
     }
   ]
 }
