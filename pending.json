@@ -35,6 +35,15 @@
       "recruiter_name": "Alvin B",
       "recruiter_linkedin": "https://www.linkedin.com/in/alvinblackmore/",
       "outreach_status": "Reached out - LinkedIn DM"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "FanDuel",
+      "role_title": "Data Scientist, Market Making",
+      "recruiter_name": "Cal Thrailkill",
+      "recruiter_linkedin": "https://www.linkedin.com/in/calthrailkill/",
+      "outreach_status": "Reached out - LinkedIn DM"
     }
   ]
 }
