@@ -85,6 +85,16 @@
       "location": "New York, NY / Los Angeles, CA",
       "app_status": "Applied",
       "job_url": "https://jobs.lever.co/matchgroup/d28a3de6-cd04-483a-9aed-5ba1d2f8c57c"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Fanatics Commerce",
+      "role_title": "Senior Data Scientist, Marketing Science and Personalization",
+      "role_type": "Full-time",
+      "location": "Redwood City, CA",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/fanaticscommerce/jobs/4389021009"
     }
   ]
 }
