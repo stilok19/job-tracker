@@ -153,6 +153,14 @@
       "location": "Multiple US metros (flexible)",
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/scribdinc/5c1fd186-f4e7-40d0-ae0a-d55bc4a1a47d"
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Fanatics Commerce",
+      "role_title": "Senior Data Scientist, Marketing Science and Personalization",
+      "recruiter_name": "Albert Leva",
+      "recruiter_linkedin": "https://www.linkedin.com/in/albertleva/",
+      "outreach_status": "Reached out - LinkedIn"
     }
   ]
 }
