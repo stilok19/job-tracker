@@ -1,3 +1,14 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Nextdoor",
+      "role_title": "Data Scientist - Ads Marketplace",
+      "role_type": "Full-time",
+      "location": "San Francisco",
+      "app_status": "Not applied",
+      "job_url": "https://about.nextdoor.com/careers-list/?gh_jid=8198106"
+    }
+  ]
 }
