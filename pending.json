@@ -15,6 +15,16 @@
       "company": "Nextdoor",
       "role_title": "Data Scientist - Ads Marketplace",
       "app_status": "Applied"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Ascend",
+      "role_title": "Data Scientist, Product",
+      "role_type": "Full-time",
+      "location": "San Francisco",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/ascend21/jobs/5421300008"
     }
   ]
 }
