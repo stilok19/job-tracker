@@ -27,6 +27,13 @@
       "recruiter_name": "E C.",
       "recruiter_linkedin": "https://www.linkedin.com/in/hello-e/",
       "outreach_status": "Reached out - LinkedIn connect request"
+    },
+    {
+      "action": "update_recruiter",
+      "company": "Nextdoor",
+      "role_title": "Data Scientist - Ads Marketplace",
+      "recruiter_name": "Stacy Song",
+      "recruiter_email": "stacy@nextdoor.com"
     }
   ]
 }
