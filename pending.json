@@ -75,6 +75,16 @@
       "location": "San Francisco, CA",
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/chime/jobs/8721885002"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Match Group",
+      "role_title": "Data Scientist, Marketing Analytics",
+      "role_type": "Full-time",
+      "location": "New York, NY / Los Angeles, CA",
+      "app_status": "Applied",
+      "job_url": "https://jobs.lever.co/matchgroup/d28a3de6-cd04-483a-9aed-5ba1d2f8c57c"
     }
   ]
 }
