@@ -91,6 +91,12 @@
       "location": "Boston, MA (preferred) or Hampton, NH",
       "app_status": "Not applied",
       "job_url": "https://corporatecareers-planetfitness.icims.com/jobs/20527/sr.-marketing-data-scientist/job"
+    },
+    {
+      "action": "update_role",
+      "company": "Planet Fitness",
+      "role_title": "Sr. Marketing Data Scientist",
+      "app_status": "Applied"
     }
   ]
 }
