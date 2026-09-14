@@ -35,6 +35,16 @@
       "location": "San Francisco, CA",
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/chime/jobs/8790231002"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Realtor.com",
+      "role_title": "Senior Data Scientist, CRM & Personalization",
+      "role_type": "Full-time",
+      "location": "Scottsdale, Arizona",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/rdccareers/jobs/7989392003"
     }
   ]
 }
