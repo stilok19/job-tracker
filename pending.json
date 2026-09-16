@@ -33,6 +33,16 @@
       "location": "Remote - United States",
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/oura/jobs/4373152009"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "OpenArt",
+      "role_title": "Marketing Data Scientist",
+      "role_type": "Full-time",
+      "location": "Bay Area preferred (hybrid, remote possible)",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/embedding-vc/4bf67f07-2aa1-4a71-ab2e-47f291f73934"
     }
   ]
 }
