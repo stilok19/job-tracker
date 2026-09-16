@@ -49,6 +49,17 @@
       "recruiter_name": "Milica (Millie) Henderson",
       "recruiter_linkedin": "https://www.linkedin.com/in/milliedjurdjevic/",
       "outreach_status": "Reached out - LinkedIn connect request"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-16",
+      "company": "Staples",
+      "role_title": "Senior Data Scientist - Marketing Analytics",
+      "role_type": "Full-time",
+      "location": "Framingham, MA (Onsite)",
+      "app_status": "Applied",
+      "job_url": "https://careers.staples.com/en/job/-/-/44412/100661774048",
+      "notes": "Job ID 74300. Pay range $118k-$162k plus annual incentive."
     }
   ]
 }
