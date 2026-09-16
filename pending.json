@@ -33,6 +33,14 @@
       "app_status": "Applied",
       "job_url": "https://careers.homedepot.com/job/23820950/senior-data-scientist-marketing-atlanta-ga/",
       "notes": "Req192346"
+    },
+    {
+      "action": "add_recruiter",
+      "company": "The Home Depot",
+      "role_title": "Senior Data Scientist, Marketing",
+      "recruiter_name": "Sama Zakiuddin",
+      "recruiter_linkedin": "https://www.linkedin.com/in/sama-zakiuddin-731311b7/",
+      "outreach_status": "Reached out - LinkedIn DM"
     }
   ]
 }
