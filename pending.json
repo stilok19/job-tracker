@@ -5,6 +5,12 @@
       "company": "Fanatics Commerce",
       "role_title": "Senior Data Scientist, Marketing Science and Personalization",
       "app_status": "Rejected"
+    },
+    {
+      "action": "update_role",
+      "company": "Enova International",
+      "role_title": "Senior Data Scientist - Marketing (Hybrid)",
+      "app_status": "Rejected"
     }
   ]
 }
