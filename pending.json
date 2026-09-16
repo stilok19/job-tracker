@@ -11,6 +11,12 @@
       "company": "Enova International",
       "role_title": "Senior Data Scientist - Marketing (Hybrid)",
       "app_status": "Rejected"
+    },
+    {
+      "action": "update_role",
+      "company": "FanDuel",
+      "role_title": "Data Scientist, Market Making",
+      "app_status": "Rejected"
     }
   ]
 }
