@@ -1,3 +1,10 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "update_role",
+      "company": "Fanatics Commerce",
+      "role_title": "Senior Data Scientist, Marketing Science and Personalization",
+      "app_status": "Rejected"
+    }
+  ]
 }
