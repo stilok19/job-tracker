@@ -5,6 +5,13 @@
       "company": "Amazon AWS",
       "role_title": "Applied Scientist - AWS Marketing Science",
       "app_status": "Applied"
+    },
+    {
+      "action": "update_recruiter",
+      "company": "Amazon AWS",
+      "role_title": "Applied Scientist - AWS Marketing Science",
+      "recruiter_name": "Avery Bersell",
+      "outreach_status": "Replied - forwarding to HR responsible for this role"
     }
   ]
 }
