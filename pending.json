@@ -23,6 +23,16 @@
       "company": "Realtor.com",
       "role_title": "Senior Data Scientist, CRM & Personalization",
       "app_status": "Rejected"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-13",
+      "company": "Oura",
+      "role_title": "Senior Data Scientist - Marketing",
+      "role_type": "Full-time",
+      "location": "Remote - United States",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/oura/jobs/4373152009"
     }
   ]
 }
