@@ -41,6 +41,14 @@
       "recruiter_name": "Sama Zakiuddin",
       "recruiter_linkedin": "https://www.linkedin.com/in/sama-zakiuddin-731311b7/",
       "outreach_status": "Reached out - LinkedIn DM"
+    },
+    {
+      "action": "add_recruiter",
+      "company": "The Home Depot",
+      "role_title": "Senior Data Scientist, Marketing",
+      "recruiter_name": "Milica (Millie) Henderson",
+      "recruiter_linkedin": "https://www.linkedin.com/in/milliedjurdjevic/",
+      "outreach_status": "Reached out - LinkedIn connect request"
     }
   ]
 }
