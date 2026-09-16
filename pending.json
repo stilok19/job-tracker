@@ -60,6 +60,15 @@
       "app_status": "Applied",
       "job_url": "https://careers.staples.com/en/job/-/-/44412/100661774048",
       "notes": "Job ID 74300. Pay range $118k-$162k plus annual incentive."
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Staples",
+      "role_title": "Senior Data Scientist - Marketing Analytics",
+      "recruiter_name": "Ashley Fischer",
+      "recruiter_email": "Ashley.Fischer@staples.com",
+      "recruiter_linkedin": "https://www.linkedin.com/in/ashley-fischer-7a2467a5/",
+      "outreach_status": "Reached out - Email (previously interviewed with her in Jan for Customer Analytics & Measurement role)"
     }
   ]
 }
