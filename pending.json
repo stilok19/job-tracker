@@ -22,6 +22,17 @@
       "location": "New York City, NY",
       "app_status": "Applied",
       "job_url": "https://www.foratravel.com/careers/jobs?gh_jid=5415800008"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-16",
+      "company": "The Home Depot",
+      "role_title": "Senior Data Scientist, Marketing",
+      "role_type": "Full-time",
+      "location": "Atlanta, GA (Onsite)",
+      "app_status": "Applied",
+      "job_url": "https://careers.homedepot.com/job/23820950/senior-data-scientist-marketing-atlanta-ga/",
+      "notes": "Req192346"
     }
   ]
 }
