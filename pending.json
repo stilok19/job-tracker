@@ -17,6 +17,12 @@
       "company": "FanDuel",
       "role_title": "Data Scientist, Market Making",
       "app_status": "Rejected"
+    },
+    {
+      "action": "update_role",
+      "company": "Realtor.com",
+      "role_title": "Senior Data Scientist, CRM & Personalization",
+      "app_status": "Rejected"
     }
   ]
 }
