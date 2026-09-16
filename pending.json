@@ -1,3 +1,10 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "update_role",
+      "company": "Amazon AWS",
+      "role_title": "Applied Scientist - AWS Marketing Science",
+      "app_status": "Applied"
+    }
+  ]
 }
