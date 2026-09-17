@@ -38,6 +38,17 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/vantagescore/jobs/4407256009",
       "notes": "Pay range $120k-$150k plus bonus. Credit scoring/GenAI focus."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Roku",
+      "role_title": "Senior Research Data Scientist",
+      "role_type": "Full-time, On-site",
+      "location": "Boston, MA",
+      "app_status": "Applied",
+      "job_url": "https://www.weareroku.com/jobs/senior-research-data-scientist-boston-massachusetts-united-states-b228d97b-6fbb-45bd-83ac-6fa8e8c80761",
+      "notes": "Pay range $330k-$375k. Causal inference platform for Customer Growth org."
     }
   ]
 }
