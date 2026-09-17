@@ -27,6 +27,17 @@
       "role_title": "Data Scientist",
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/credible/jobs/8195867"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "VantageScore",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time, Hybrid (3 days/week)",
+      "location": "Washington D.C. (preferred) or New York, NY",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/vantagescore/jobs/4407256009",
+      "notes": "Pay range $120k-$150k plus bonus. Credit scoring/GenAI focus."
     }
   ]
 }
