@@ -20,6 +20,13 @@
       "app_status": "Applied",
       "job_url": "",
       "notes": "Pay range $89k-$136k depending on location"
+    },
+    {
+      "action": "update_role",
+      "company": "Credible",
+      "role_title": "Data Scientist",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/credible/jobs/8195867"
     }
   ]
 }
