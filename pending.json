@@ -9,6 +9,17 @@
       "location": "Not specified on posting",
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/polymarket/ebdcaee3-2a6c-4bf1-8647-f0b9e6222a4f"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Credible",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time (In person)",
+      "location": "Durham, NC",
+      "app_status": "Applied",
+      "job_url": "",
+      "notes": "Pay range $89k-$136k depending on location"
     }
   ]
 }
