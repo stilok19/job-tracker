@@ -1,3 +1,14 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Polymarket",
+      "role_title": "Senior Data Scientist / Analyst, Growth",
+      "role_type": "Full-time",
+      "location": "Not specified on posting",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/polymarket/ebdcaee3-2a6c-4bf1-8647-f0b9e6222a4f"
+    }
+  ]
 }
