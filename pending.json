@@ -180,6 +180,17 @@
       "recruiter_name": "Alden Woolford",
       "recruiter_linkedin": "https://www.linkedin.com/in/alden-woolford-963a29bb/",
       "outreach_status": "Reached out - LinkedIn DM"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "H-E-B",
+      "role_title": "Data Scientist II - ML Engineering",
+      "role_type": "Full-time",
+      "location": "San Antonio, TX (likely; unconfirmed from posting itself, page blocked automated access)",
+      "app_status": "Applied",
+      "job_url": "https://careers-heb.icims.com/jobs/213843/data-scientist-ii---ml-engineering/job",
+      "notes": "Job ID 213843. Corporate Planning & Analysis org. Note: separate from prior H-E-B contact Nick Morales/Katie - confirm if same team."
     }
   ]
 }
