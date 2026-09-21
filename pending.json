@@ -10,6 +10,17 @@
       "app_status": "Applied",
       "job_url": "https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/38327?c=worldbankgroup",
       "notes": "req38327. Department for Outcomes, AI for Outcomes workstream. Closing 10/9/2026."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Rockstar Games",
+      "role_title": "Senior Data Scientist, Web/Marketing Analytics",
+      "role_type": "Full-time, In-office",
+      "location": "Manhattan, New York",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/rockstargames/jobs/7864697003",
+      "notes": "Pay range $121,400-$161,800. Heavy web analytics stack (GA4, GTM, JS/HTML/CSS)."
     }
   ]
 }
