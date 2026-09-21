@@ -32,6 +32,17 @@
       "app_status": "Applied",
       "job_url": "https://jobs.dominos.com/us/jobs/172701f7-d304-4b89-8b71-b4cee2432273/senior-data-scientist-media-decision-science/",
       "notes": "Global Analytics and Insights team. Media incrementality/geo-test focus, paid search and local media."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "NewsBreak",
+      "role_title": "Growth Data Scientist - Measurement Lead",
+      "role_type": "Full-time, Onsite (5 days/week)",
+      "location": "Mountain View, CA",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/newsbreak/jobs/4702106006",
+      "notes": "Pay range $100k-$250k. Sole owner of incrementality/geo-holdout program, feeds agentic bidding system."
     }
   ]
 }
