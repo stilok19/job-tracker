@@ -128,6 +128,17 @@
       "app_status": "Applied",
       "job_url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/Senior-Data-Scientist--Marketing-Measurement--Consumer-Solutions_2632475",
       "notes": "Strategic owner of marketing measurement function (MMM, MTA, incrementality). Requires 7+ yrs."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Athene",
+      "role_title": "Sr Marketing Data Scientist",
+      "role_type": "Full-time",
+      "location": "West Des Moines, IA (unconfirmed from posting itself)",
+      "app_status": "Applied",
+      "job_url": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/Sr-Marketing-Data-Scientist_R255129",
+      "notes": "R255129. Propensity/cross-sell/churn/attribution models, MLOps framework ownership. Annuities/insurance company."
     }
   ]
 }
