@@ -117,6 +117,17 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/ncinoinc/jobs/4383607009",
       "notes": "Pay range $107.9k-$183.4k. Fintech (banking software). General ML/predictive modeling, not marketing-specific."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Labcorp",
+      "role_title": "Senior Data Scientist, Marketing Measurement, Consumer Solutions",
+      "role_type": "Full-time, Hybrid (3 days/week onsite)",
+      "location": "Burlington, NC / Durham, NC",
+      "app_status": "Applied",
+      "job_url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/Senior-Data-Scientist--Marketing-Measurement--Consumer-Solutions_2632475",
+      "notes": "Strategic owner of marketing measurement function (MMM, MTA, incrementality). Requires 7+ yrs."
     }
   ]
 }
