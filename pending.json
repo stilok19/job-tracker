@@ -78,6 +78,17 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/figma/jobs/5976930004",
       "notes": "PhD new-grad pipeline role. Pay range $170k-$178k. Core Data / experimentation platform team."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Notion",
+      "role_title": "Data Scientist, Growth",
+      "role_type": "Full-time, Onsite",
+      "location": "San Francisco, CA / New York, NY",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/notion/9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
+      "notes": "Pay range $145k-$233k. Growth org, experimentation-focused, B2B SaaS a plus."
     }
   ]
 }
