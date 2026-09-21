@@ -51,6 +51,22 @@
       "recruiter_name": "Lynn L",
       "recruiter_linkedin": "https://www.linkedin.com/in/lynn-l-139337165/",
       "outreach_status": "Reached out - LinkedIn connect request"
+    },
+    {
+      "action": "add_recruiter",
+      "company": "NewsBreak",
+      "role_title": "Growth Data Scientist - Measurement Lead",
+      "recruiter_name": "Cindy Fan, ODCP",
+      "recruiter_linkedin": "https://www.linkedin.com/in/cindy-fan-odcp-25a7381b/",
+      "outreach_status": "Reached out - LinkedIn connect request"
+    },
+    {
+      "action": "add_recruiter",
+      "company": "NewsBreak",
+      "role_title": "Growth Data Scientist - Measurement Lead",
+      "recruiter_name": "Cath Song",
+      "recruiter_linkedin": "https://www.linkedin.com/in/cath-song/",
+      "outreach_status": "Reached out - LinkedIn connect request"
     }
   ]
 }
