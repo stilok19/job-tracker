@@ -139,6 +139,17 @@
       "app_status": "Applied",
       "job_url": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/Sr-Marketing-Data-Scientist_R255129",
       "notes": "R255129. Propensity/cross-sell/churn/attribution models, MLOps framework ownership. Annuities/insurance company."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Nestle Purina",
+      "role_title": "Expert Data Scientist (Commercial)",
+      "role_type": "Full-time",
+      "location": "St. Louis, MO",
+      "app_status": "Applied",
+      "job_url": "https://jobdetails.nestle.com/job/St_-Louis-Expert-Data-Scientist-%28Commercial%29-MO-63102/1436882933/",
+      "notes": "Req 419719. Pay range $133k-$188k. Heavy GenAI/LLM/MMM/agentic AI focus. Not visa sponsorship eligible. Requires 7+ yrs."
     }
   ]
 }
