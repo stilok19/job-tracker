@@ -100,6 +100,12 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/applovin/jobs/4705263006",
       "notes": "Pay range $120k-$180k. Ad/app ecosystem analytics, 0-3 yrs level role."
+    },
+    {
+      "action": "update_role",
+      "company": "Amazon AWS",
+      "role_title": "Applied Scientist - AWS Marketing Science",
+      "app_status": "Rejected"
     }
   ]
 }
