@@ -43,6 +43,14 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/newsbreak/jobs/4702106006",
       "notes": "Pay range $100k-$250k. Sole owner of incrementality/geo-holdout program, feeds agentic bidding system."
+    },
+    {
+      "action": "add_recruiter",
+      "company": "NewsBreak",
+      "role_title": "Growth Data Scientist - Measurement Lead",
+      "recruiter_name": "Lynn L",
+      "recruiter_linkedin": "https://www.linkedin.com/in/lynn-l-139337165/",
+      "outreach_status": "Reached out - LinkedIn connect request"
     }
   ]
 }
