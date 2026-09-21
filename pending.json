@@ -1,3 +1,15 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "World Bank Group",
+      "role_title": "Data Scientist - AI for Outcomes",
+      "role_type": "Open-Ended Staff, International Recruitment",
+      "location": "Washington, DC",
+      "app_status": "Applied",
+      "job_url": "https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/38327?c=worldbankgroup",
+      "notes": "req38327. Department for Outcomes, AI for Outcomes workstream. Closing 10/9/2026."
+    }
+  ]
 }
