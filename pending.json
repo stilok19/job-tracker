@@ -67,6 +67,17 @@
       "recruiter_name": "Cath Song",
       "recruiter_linkedin": "https://www.linkedin.com/in/cath-song/",
       "outreach_status": "Reached out - LinkedIn connect request"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Figma",
+      "role_title": "Data Scientist, Core Data - PhD (2026)",
+      "role_type": "Full-time (US hub or remote)",
+      "location": "San Francisco, CA / New York, NY / Remote US",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/figma/jobs/5976930004",
+      "notes": "PhD new-grad pipeline role. Pay range $170k-$178k. Core Data / experimentation platform team."
     }
   ]
 }
