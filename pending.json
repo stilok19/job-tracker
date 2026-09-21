@@ -172,6 +172,14 @@
       "app_status": "Applied",
       "job_url": "https://www.tryprofound.com/careers/26f3cb11-c67a-4534-adc6-13e404a883f7",
       "notes": "Pay range $140k-$260k. AI answer-engine visibility/marketing platform (AEO/GEO), Series D ($180M raise). Visa sponsorship offered."
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Profound",
+      "role_title": "Member of Technical Staff, Data Science",
+      "recruiter_name": "Alden Woolford",
+      "recruiter_linkedin": "https://www.linkedin.com/in/alden-woolford-963a29bb/",
+      "outreach_status": "Reached out - LinkedIn DM"
     }
   ]
 }
