@@ -89,6 +89,17 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/notion/9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
       "notes": "Pay range $145k-$233k. Growth org, experimentation-focused, B2B SaaS a plus."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "AppLovin",
+      "role_title": "Data Scientist - Analytics",
+      "role_type": "Full-time",
+      "location": "Palo Alto, CA",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/applovin/jobs/4705263006",
+      "notes": "Pay range $120k-$180k. Ad/app ecosystem analytics, 0-3 yrs level role."
     }
   ]
 }
