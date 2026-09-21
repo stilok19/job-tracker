@@ -150,6 +150,17 @@
       "app_status": "Applied",
       "job_url": "https://jobdetails.nestle.com/job/St_-Louis-Expert-Data-Scientist-%28Commercial%29-MO-63102/1436882933/",
       "notes": "Req 419719. Pay range $133k-$188k. Heavy GenAI/LLM/MMM/agentic AI focus. Not visa sponsorship eligible. Requires 7+ yrs."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-17",
+      "company": "Shift Technology",
+      "role_title": "Data Scientist/Engineer",
+      "role_type": "Full-time, Hybrid",
+      "location": "Boston, MA",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/shifttechnology/jobs/7997683003",
+      "notes": "Pay range $100k-$110k. Insurance AI (subrogation/claims). Heavy agentic AI/LLM production focus, not marketing."
     }
   ]
 }
