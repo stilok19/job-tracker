@@ -11,6 +11,12 @@
       "company": "Labcorp",
       "role_title": "Senior Data Scientist, Marketing Measurement, Consumer Solutions",
       "app_status": "Rejected"
+    },
+    {
+      "action": "update_role",
+      "company": "Shift Technology",
+      "role_title": "Data Scientist/Engineer",
+      "app_status": "Rejected"
     }
   ]
 }
