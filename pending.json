@@ -109,6 +109,17 @@
       "app_status": "Applied",
       "job_url": "https://careers.travelers.com/job/23905510/data-scientist-customer-experience-genai-hartford-ct/",
       "notes": "Req R-52672. Pay range $132.8k-$219.1k. Only requires Master's + 3 yrs (junior-leaning despite scope). GenAI/RAG pipeline focus, insurance customer experience."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-23",
+      "company": "Olympus",
+      "role_title": "Data Scientist, Advanced Market Analytics & Modeling",
+      "role_type": "Full-time, Hybrid",
+      "location": "Westborough, MA (also Center Valley, PA / Nationwide)",
+      "app_status": "Applied",
+      "job_url": "https://careers.olympusamerica.com/job/Westborough-Data-Scientist%2C-Advanced-Market-Analytics-&-Modeling-MA-01581/1431214200/",
+      "notes": "Req 11026. Pay range $122.4k-$171.3k. Medical device market sizing/forecasting/segmentation, not marketing measurement. Requires 7+ yrs (she has 6+) and 5+ yrs project management - real stretch. Westborough is close to Boston."
     }
   ]
 }
