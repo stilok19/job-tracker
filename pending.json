@@ -17,6 +17,17 @@
       "company": "Shift Technology",
       "role_title": "Data Scientist/Engineer",
       "app_status": "Rejected"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-23",
+      "company": "Bevi",
+      "role_title": "GTM Data Scientist",
+      "role_type": "Full-time, Hybrid (2 days/week onsite)",
+      "location": "Charlestown, MA (Boston)",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/bevicareers/jobs/4335761009",
+      "notes": "Pay range $120.7k-$149.1k. Churn/look-alike/MMM/incrementality. B2B office subscription, close parallel to Rootastes."
     }
   ]
 }
