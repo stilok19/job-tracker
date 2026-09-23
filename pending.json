@@ -36,6 +36,14 @@
       "recruiter_name": "Natasha Patel",
       "recruiter_linkedin": "https://www.linkedin.com/in/natasha-n-patel/",
       "outreach_status": "Reached out - LinkedIn connect request"
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Bevi",
+      "role_title": "GTM Data Scientist",
+      "recruiter_name": "Cary DeMello",
+      "recruiter_linkedin": "https://www.linkedin.com/in/carydemello/",
+      "outreach_status": "Reached out - LinkedIn connect request"
     }
   ]
 }
