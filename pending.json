@@ -80,6 +80,14 @@
       "app_status": "Applied",
       "job_url": "https://www.stitchfix.com/careers/jobs?gh_jid=8168199",
       "notes": "Pay range $150k-$177k. Experimentation/causal inference, partners with Marketing/Strategy/Client Experience. Role match from job ID inferred, not fully confirmed - verify title matches what was applied to."
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Stitch Fix",
+      "role_title": "Data Scientist, Decisions & Insights",
+      "recruiter_name": "Daniella Obregon",
+      "recruiter_linkedin": "https://www.linkedin.com/in/daniellaobregon/",
+      "outreach_status": "Reached out - LinkedIn connect request"
     }
   ]
 }
