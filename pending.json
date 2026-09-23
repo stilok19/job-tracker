@@ -54,6 +54,17 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/flaglerhealth/97c28cd0-91c9-4628-bb2a-5acd0f1b4953",
       "notes": "Series B ($50M) digital health/MSK care startup. Product/operational analytics (retention, cohort, funnel) - not research. Only 3+ yrs required."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-23",
+      "company": "impact.com",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time, Hybrid",
+      "location": "New York City, NY",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/impact/jobs/8828965002",
+      "notes": "Pay range $130k-$142k + RSU + bonus. Attribution/identity resolution/incrementality measurement for partnership marketing platform. Graph/entity resolution focus is a gap."
     }
   ]
 }
