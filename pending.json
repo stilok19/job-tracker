@@ -28,6 +28,14 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/bevicareers/jobs/4335761009",
       "notes": "Pay range $120.7k-$149.1k. Churn/look-alike/MMM/incrementality. B2B office subscription, close parallel to Rootastes."
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Bevi",
+      "role_title": "GTM Data Scientist",
+      "recruiter_name": "Natasha Patel",
+      "recruiter_linkedin": "https://www.linkedin.com/in/natasha-n-patel/",
+      "outreach_status": "Reached out - LinkedIn connect request"
     }
   ]
 }
