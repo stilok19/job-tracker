@@ -43,6 +43,17 @@
       "app_status": "Applied",
       "job_url": "https://jobs.lever.co/cirquedusoleil/2f9b0728-b524-4ace-8448-faf631309673",
       "notes": "Marketing, ticketing, revenue management, digital, customer analytics. Only 3+ yrs required. Good general fit."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-23",
+      "company": "Flagler Health",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time (NYC preferred, remote possible)",
+      "location": "New York, NY / Remote",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/flaglerhealth/97c28cd0-91c9-4628-bb2a-5acd0f1b4953",
+      "notes": "Series B ($50M) digital health/MSK care startup. Product/operational analytics (retention, cohort, funnel) - not research. Only 3+ yrs required."
     }
   ]
 }
