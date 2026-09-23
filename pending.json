@@ -32,6 +32,17 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/suno/11036f7e-adf7-45ef-baf4-e4c3c334039d",
       "notes": "Pay range $200k-$250k (some listings show up to $320k). AI music platform, fast-growing/high-intensity startup. Content discovery, social engagement, creator success - not marketing measurement focused."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-23",
+      "company": "Cirque du Soleil",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time, Hybrid (4 days/week in office)",
+      "location": "Las Vegas, NV / Montreal, QC",
+      "app_status": "Applied",
+      "job_url": "https://jobs.lever.co/cirquedusoleil/2f9b0728-b524-4ace-8448-faf631309673",
+      "notes": "Marketing, ticketing, revenue management, digital, customer analytics. Only 3+ yrs required. Good general fit."
     }
   ]
 }
