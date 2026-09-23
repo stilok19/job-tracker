@@ -98,6 +98,17 @@
       "app_status": "Applied",
       "job_url": "https://www.quantifind.com/open-positions/?gh_jid=8224461",
       "notes": "Pay range ~$140k-$170k + equity. AML/financial crime risk detection (fraud, KYC, sanctions screening). Entity resolution/NLP/knowledge graphs. Strong overlap with SAS AMLO fraud work. Visa sponsorship reportedly not available - verify."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-23",
+      "company": "Travelers",
+      "role_title": "Data Scientist - Customer Experience GenAI",
+      "role_type": "Full-time, Hybrid",
+      "location": "Hartford, CT",
+      "app_status": "Applied",
+      "job_url": "https://careers.travelers.com/job/23905510/data-scientist-customer-experience-genai-hartford-ct/",
+      "notes": "Req R-52672. Pay range $132.8k-$219.1k. Only requires Master's + 3 yrs (junior-leaning despite scope). GenAI/RAG pipeline focus, insurance customer experience."
     }
   ]
 }
