@@ -55,6 +55,14 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/confido/1ab17543-29df-4d5a-a933-d443d659eafa",
       "notes": "CPG AI infra startup (OLIPOP, Simple Mills, Dr Squatch clients). Demand forecasting, promo lift/elasticity, Snowflake/dbt. 5x YoY growth, small team."
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Confido",
+      "role_title": "Data Scientist",
+      "recruiter_name": "Connor Smith",
+      "recruiter_linkedin": "https://www.linkedin.com/in/connor-smith-678770178/",
+      "outreach_status": "Reached out - LinkedIn DM"
     }
   ]
 }
