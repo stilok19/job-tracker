@@ -63,6 +63,12 @@
       "recruiter_name": "Connor Smith",
       "recruiter_linkedin": "https://www.linkedin.com/in/connor-smith-678770178/",
       "outreach_status": "Reached out - LinkedIn DM"
+    },
+    {
+      "action": "update_role",
+      "company": "Domino's Pizza",
+      "role_title": "Senior Data Scientist - Media Decision Science",
+      "app_status": "Rejected"
     }
   ]
 }
