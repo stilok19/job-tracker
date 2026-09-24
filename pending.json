@@ -44,6 +44,17 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/Coframe/828ec154-4ccb-4766-8d3f-9e34e665ee50",
       "notes": "Pay range $180k-$500k. Small startup (20 employees), self-optimizing interfaces. Bayesian/bandits/RL experimentation platform, personalization/ranking systems. Strong overlap with Rootastes experimentation + Grab ranking work; bandits/RL is a gap."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-24",
+      "company": "Mercury Insurance",
+      "role_title": "Data Scientist - Modeling (Retention, Churn, CLV)",
+      "role_type": "Full-time, Remote (US visa required, no sponsorship)",
+      "location": "US-Remote",
+      "app_status": "Applied",
+      "job_url": "https://careers-mercuryinsurance.icims.com/jobs/6779/data-scientist---modeling%28retention%2c-churn%2c-clv%29/job",
+      "notes": "Job ID 6779. Pay range unconfirmed - similar Mercury DS roles range ~$85k-$230k by state/level. Direct fit: retention/churn/CLV modeling is core Rootastes work. US visa required, no sponsorship noted on similar listings - verify."
     }
   ]
 }
