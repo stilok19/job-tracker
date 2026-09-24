@@ -55,6 +55,17 @@
       "app_status": "Applied",
       "job_url": "https://careers-mercuryinsurance.icims.com/jobs/6779/data-scientist---modeling%28retention%2c-churn%2c-clv%29/job",
       "notes": "Job ID 6779. Pay range unconfirmed - similar Mercury DS roles range ~$85k-$230k by state/level. Direct fit: retention/churn/CLV modeling is core Rootastes work. US visa required, no sponsorship noted on similar listings - verify."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-24",
+      "company": "Bright Vision Technologies",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time, 100% Remote (Direct W2)",
+      "location": "Remote, USA",
+      "app_status": "Applied",
+      "job_url": "https://brightvisiontechnologies.applytojob.com/apply/eSxYkqewVK/Senior-Data-Scientist",
+      "notes": "IT staffing/consulting firm (not end employer). Pay range $160k-$180k. Cannot sponsor NEW H-1B petitions (H-1B transfers OK). General enterprise ML/MLOps role, not marketing-specific. Verify end client before proceeding."
     }
   ]
 }
