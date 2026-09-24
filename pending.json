@@ -66,6 +66,17 @@
       "app_status": "Applied",
       "job_url": "https://brightvisiontechnologies.applytojob.com/apply/eSxYkqewVK/Senior-Data-Scientist",
       "notes": "IT staffing/consulting firm (not end employer). Pay range $160k-$180k. Cannot sponsor NEW H-1B petitions (H-1B transfers OK). General enterprise ML/MLOps role, not marketing-specific. Verify end client before proceeding."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-24",
+      "company": "Kohl's",
+      "role_title": "Senior Data Scientist (Remote)",
+      "role_type": "Full-time, Remote",
+      "location": "Menomonee Falls, WI (remote)",
+      "app_status": "Applied",
+      "job_url": "https://careers.kohls.com/job/KLHKUSR503502/Senior-Data-Scientist-Remote",
+      "notes": "Req R503502. Posting now shows position has been filled - job details not retrievable, likely closed shortly after application."
     }
   ]
 }
