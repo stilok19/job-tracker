@@ -104,6 +104,17 @@
       "recruiter_name": "Eileen Novotny",
       "recruiter_linkedin": "https://www.linkedin.com/in/eileennovotny/",
       "outreach_status": "Reached out - LinkedIn DM and connection request"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-24",
+      "company": "Hims & Hers",
+      "role_title": "Sr. Data Scientist",
+      "role_type": "Full-time, Remote (talent-first flexible)",
+      "location": "Remote, USA",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/hims-and-hers/35419354-1c93-4a8b-9c97-24258bb3a7cb",
+      "notes": "Public co (NYSE: HIMS), health/wellness/telehealth. 0-to-1 execution, propensity/churn/LTV modeling, causal inference. Strong fit with Rootastes + Lazada work. Only 5+ yrs required."
     }
   ]
 }
