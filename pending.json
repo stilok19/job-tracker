@@ -88,6 +88,22 @@
       "app_status": "Applied",
       "job_url": "https://talent.lowes.com/us/en/job/JR-02622175/Data-Scientist",
       "notes": "Req JR-02622175. Posting now shows position has been filled - job details not retrievable, likely closed shortly after application."
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Target",
+      "role_title": "Sr Applied Data Scientist - Personalization (RecSys)",
+      "recruiter_name": "Lance Andries",
+      "recruiter_linkedin": "https://www.linkedin.com/in/lanceandries/",
+      "outreach_status": "Reached out - LinkedIn DM and connection request"
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Target",
+      "role_title": "Sr Applied Data Scientist - Personalization (RecSys)",
+      "recruiter_name": "Eileen Novotny",
+      "recruiter_linkedin": "https://www.linkedin.com/in/eileennovotny/",
+      "outreach_status": "Reached out - LinkedIn DM and connection request"
     }
   ]
 }
