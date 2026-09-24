@@ -77,6 +77,17 @@
       "app_status": "Applied",
       "job_url": "https://careers.kohls.com/job/KLHKUSR503502/Senior-Data-Scientist-Remote",
       "notes": "Req R503502. Posting now shows position has been filled - job details not retrievable, likely closed shortly after application."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-24",
+      "company": "Lowe's",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time",
+      "location": "Charlotte, NC (Charlotte Technology Hub)",
+      "app_status": "Applied",
+      "job_url": "https://talent.lowes.com/us/en/job/JR-02622175/Data-Scientist",
+      "notes": "Req JR-02622175. Posting now shows position has been filled - job details not retrievable, likely closed shortly after application."
     }
   ]
 }
