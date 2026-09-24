@@ -5,6 +5,12 @@
       "company": "Athene",
       "role_title": "Sr Marketing Data Scientist",
       "app_status": "Rejected"
+    },
+    {
+      "action": "update_role",
+      "company": "Nestle Purina",
+      "role_title": "Expert Data Scientist (Commercial)",
+      "app_status": "Rejected"
     }
   ]
 }
