@@ -11,6 +11,17 @@
       "company": "Nestle Purina",
       "role_title": "Expert Data Scientist (Commercial)",
       "app_status": "Rejected"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-23",
+      "company": "Target",
+      "role_title": "Sr Applied Data Scientist - Personalization (RecSys)",
+      "role_type": "Full-time, Hybrid",
+      "location": "Brooklyn Park, MN",
+      "app_status": "Applied",
+      "job_url": "https://corporate.target.com/jobs/w08/07/sr-applied-data-scientist-personalization-applied-ml,-pytorch,-recsys",
+      "notes": "Req R0000440807. Pay range $98k-$176k. Strong fit: recommendation/ranking systems at scale, matches Grab experience directly. Deadline 10/01/2026."
     }
   ]
 }
