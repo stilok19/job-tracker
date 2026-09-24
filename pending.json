@@ -33,6 +33,17 @@
       "app_status": "Applied",
       "job_url": "https://careers.shakeshack.com/senior-analyst-lifecycle-loyalty-analytics/job/P1-6686440-0",
       "notes": "JR13449-2. Offer/campaign performance reporting, lifecycle testing, LTV-driven cohort work. Pay range not confirmed. Likely a step down in seniority/comp vs recent applications - verify level before follow-up."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-24",
+      "company": "Coframe",
+      "role_title": "Applied Scientist, Experimentation",
+      "role_type": "Full-time, In-office or Remote (CA)",
+      "location": "Burlingame, CA / Remote CA",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/Coframe/828ec154-4ccb-4766-8d3f-9e34e665ee50",
+      "notes": "Pay range $180k-$500k. Small startup (20 employees), self-optimizing interfaces. Bayesian/bandits/RL experimentation platform, personalization/ranking systems. Strong overlap with Rootastes experimentation + Grab ranking work; bandits/RL is a gap."
     }
   ]
 }
