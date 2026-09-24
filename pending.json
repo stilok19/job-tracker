@@ -115,6 +115,17 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/hims-and-hers/35419354-1c93-4a8b-9c97-24258bb3a7cb",
       "notes": "Public co (NYSE: HIMS), health/wellness/telehealth. 0-to-1 execution, propensity/churn/LTV modeling, causal inference. Strong fit with Rootastes + Lazada work. Only 5+ yrs required."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-24",
+      "company": "PhaseV",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time",
+      "location": "Cambridge, MA",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/phasev/jobs/4420031009",
+      "notes": "Boston HQ (R&D Tel Aviv). Causal inference for adaptive clinical trial design, CATE estimation, responder detection. PhD strongly relevant though only Master's + 3 yrs required. No prior biotech/life sciences experience - genuine gap but not disqualifying."
     }
   ]
 }
