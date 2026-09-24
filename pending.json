@@ -126,6 +126,17 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/phasev/jobs/4420031009",
       "notes": "Boston HQ (R&D Tel Aviv). Causal inference for adaptive clinical trial design, CATE estimation, responder detection. PhD strongly relevant though only Master's + 3 yrs required. No prior biotech/life sciences experience - genuine gap but not disqualifying."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-24",
+      "company": "Wells Fargo",
+      "role_title": "Lead Marketing Campaign Analytics & Data Science Consultant",
+      "role_type": "Full-time, Hybrid (3 days in office/2 remote)",
+      "location": "Not confirmed from posting - must reside within commutable distance of posting location",
+      "app_status": "Applied",
+      "job_url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/Lead-Marketing-Campaign-Analytics---Data-Science-Consultant_R-577637",
+      "notes": "Req R-577637. Campaign measurement/incrementality/A-B testing/attribution for Consumer Banking Marketing. Strong fit with Rootastes causal work. NOT eligible for visa sponsorship, no relocation assistance - must already be local to posting location. Posting ends 29 Sep 2026."
     }
   ]
 }
