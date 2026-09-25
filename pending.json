@@ -1,3 +1,10 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "update_role",
+      "company": "Nestle Health Science",
+      "role_title": "Senior Data Scientist",
+      "app_status": "Rejected"
+    }
+  ]
 }
