@@ -1,3 +1,10 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "update_role",
+      "company": "Target",
+      "role_title": "Sr Applied Data Scientist - Personalization (RecSys)",
+      "app_status": "Rejected"
+    }
+  ]
 }
