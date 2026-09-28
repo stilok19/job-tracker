@@ -41,6 +41,17 @@
       "app_status": "Applied",
       "job_url": "https://www.zoominfo.com/careers/jr108081/machine-learning-engineer",
       "notes": "Req JR108081. Posted 9/21/2026. Pay $128.1k-$201.3k. B2B data graph, entity resolution, propensity/lookalike, LLM agents, distillation/quantization. Must-haves heavy on production LLM agents and LLM-judge evals - engineering-leaning stretch."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "Voleon",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time, Hybrid (Research dept)",
+      "location": "Berkeley, CA / New York, NY / Remote US",
+      "app_status": "Applied",
+      "job_url": "https://www.voleon.com/jobs/?ashby_jid=397d52ad-d965-4475-b869-a8de53600d9a",
+      "notes": "Quant hedge fund. Base $150k-$190k + bonus. Data health monitoring, root-cause analysis, pipelines for trading/research systems. Only 1+ yrs required - overqualified. Finance interest preferred; SQL/Pandas/R, bash, git."
     }
   ]
 }
