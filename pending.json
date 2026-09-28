@@ -74,6 +74,17 @@
       "app_status": "Applied",
       "job_url": "https://www.wayfair.com/careers/job/senior-data-scientist--operations-analytics/2-19811",
       "notes": "Req 19811. Base $121k-$132k. Fulfillment network strategy, FC site selection, sensitivity analysis, spreadsheet modeling. Ops research/supply chain flavor, not marketing. Preferred: logistics/ecommerce/supply chain experience."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "Early Media",
+      "role_title": "Lead Data Scientist",
+      "role_type": "Full-time",
+      "location": "Not stated in posting",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/earlymedia/2a96f829-df31-4a1d-bb74-637e92e68071",
+      "notes": "Original series / streaming app (Twist) startup. Content performance modeling, pilot prediction, attribution, NLP/sentiment, segmentation, mentors a junior analyst. Requires 6+ yrs. Pay and location not listed."
     }
   ]
 }
