@@ -52,6 +52,17 @@
       "app_status": "Applied",
       "job_url": "https://www.voleon.com/jobs/?ashby_jid=397d52ad-d965-4475-b869-a8de53600d9a",
       "notes": "Quant hedge fund. Base $150k-$190k + bonus. Data health monitoring, root-cause analysis, pipelines for trading/research systems. Only 1+ yrs required - overqualified. Finance interest preferred; SQL/Pandas/R, bash, git."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "Planview",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time",
+      "location": "Austin, TX (likely; unconfirmed, page blocks automated access)",
+      "app_status": "Applied",
+      "job_url": "https://careers-planview.icims.com/jobs/5040/data-scientist/job",
+      "notes": "Job ID 5040. Details inferred from Planview's Austin Data Scientist posting (7/25/2026): optimization, simulation (Monte Carlo), predictive models, GenAI. Pay not confirmed. An older Planview DS listing showed no visa sponsorship - verify."
     }
   ]
 }
