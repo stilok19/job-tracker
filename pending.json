@@ -107,6 +107,17 @@
       "app_status": "Applied",
       "job_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210746297",
       "notes": "Job ID 210746297. Pay not listed. Deposit marketing measurement, A/B and incrementality readouts, ROI/present value, finance budgeting support. Requires 3+ yrs R and SQL, Bachelor's + Master's, AI dev tools. R is a gap."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "PNC",
+      "role_title": "Data Scientist - Marketing & Customer Analytics",
+      "role_type": "Full-time",
+      "location": "Pittsburgh, PA",
+      "app_status": "Applied",
+      "job_url": "https://careers.pnc.com/global/en/job/R233750/Data-Scientist-Marketing-Customer-Analytics",
+      "notes": "Req R233750. Posting now shows unavailable - details not retrievable, likely closed after application."
     }
   ]
 }
