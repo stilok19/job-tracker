@@ -1,3 +1,15 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "LinkedIn",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time, Hybrid",
+      "location": "Not stated in pasted posting",
+      "app_status": "Applied",
+      "job_url": "",
+      "notes": "Product DS: experimentation, causal analysis, metric definition, two-sided marketplaces, evaluating AI-powered features. Only 3+ yrs required; MS/PhD preferred. Pasted JD, no URL or pay range."
+    }
+  ]
 }
