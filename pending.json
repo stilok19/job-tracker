@@ -63,6 +63,17 @@
       "app_status": "Applied",
       "job_url": "https://careers-planview.icims.com/jobs/5040/data-scientist/job",
       "notes": "Job ID 5040. Details inferred from Planview's Austin Data Scientist posting (7/25/2026): optimization, simulation (Monte Carlo), predictive models, GenAI. Pay not confirmed. An older Planview DS listing showed no visa sponsorship - verify."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "Wayfair",
+      "role_title": "Senior Data Scientist, Operations Analytics",
+      "role_type": "Full-time, Hybrid (Tue-Thu in office, 4 days per posting header)",
+      "location": "Boston, MA",
+      "app_status": "Applied",
+      "job_url": "https://www.wayfair.com/careers/job/senior-data-scientist--operations-analytics/2-19811",
+      "notes": "Req 19811. Base $121k-$132k. Fulfillment network strategy, FC site selection, sensitivity analysis, spreadsheet modeling. Ops research/supply chain flavor, not marketing. Preferred: logistics/ecommerce/supply chain experience."
     }
   ]
 }
