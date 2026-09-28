@@ -1,3 +1,10 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "update_role",
+      "company": "Stitch Fix",
+      "role_title": "Data Scientist, Decisions & Insights",
+      "app_status": "Rejected"
+    }
+  ]
 }
