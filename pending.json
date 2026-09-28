@@ -85,6 +85,17 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/earlymedia/2a96f829-df31-4a1d-bb74-637e92e68071",
       "notes": "Original series / streaming app (Twist) startup. Content performance modeling, pilot prediction, attribution, NLP/sentiment, segmentation, mentors a junior analyst. Requires 6+ yrs. Pay and location not listed."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "Warner Bros. Discovery (HBO Max)",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time",
+      "location": "Atlanta, GA",
+      "app_status": "Applied",
+      "job_url": "https://careers.wbd.com/global/en/job/R000107582/Senior-Data-Scientist",
+      "notes": "Req R000107582. Posting now shows position has been filled - job details not retrievable."
     }
   ]
 }
