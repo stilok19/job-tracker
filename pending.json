@@ -10,6 +10,15 @@
       "app_status": "Applied",
       "job_url": "",
       "notes": "Product DS: experimentation, causal analysis, metric definition, two-sided marketplaces, evaluating AI-powered features. Only 3+ yrs required; MS/PhD preferred. Pasted JD, no URL or pay range."
+    },
+    {
+      "action": "add_recruiter",
+      "company": "LinkedIn",
+      "role_title": "Senior Data Scientist",
+      "recruiter_name": "George Schnabel",
+      "recruiter_linkedin": "https://www.linkedin.com/in/george-schnabel-ii/",
+      "outreach_status": "Reached out - LinkedIn DM",
+      "notes": "Hiring manager"
     }
   ]
 }
