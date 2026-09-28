@@ -96,6 +96,17 @@
       "app_status": "Applied",
       "job_url": "https://careers.wbd.com/global/en/job/R000107582/Senior-Data-Scientist",
       "notes": "Req R000107582. Posting now shows position has been filled - job details not retrievable."
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "JPMorgan Chase",
+      "role_title": "Marketing Data Scientist Senior Associate - Consumer Bank",
+      "role_type": "Full-time, On-site",
+      "location": "Columbus, OH (per matching listings; not shown on the Oracle page itself)",
+      "app_status": "Applied",
+      "job_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210746297",
+      "notes": "Job ID 210746297. Pay not listed. Deposit marketing measurement, A/B and incrementality readouts, ROI/present value, finance budgeting support. Requires 3+ yrs R and SQL, Bachelor's + Master's, AI dev tools. R is a gap."
     }
   ]
 }
