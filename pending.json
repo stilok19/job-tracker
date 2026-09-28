@@ -19,6 +19,17 @@
       "recruiter_linkedin": "https://www.linkedin.com/in/george-schnabel-ii/",
       "outreach_status": "Reached out - LinkedIn DM",
       "notes": "Hiring manager"
+    },
+    {
+      "action": "add",
+      "date_added": "2026-09-28",
+      "company": "LinkedIn",
+      "role_title": "Data/Applied Scientist (LinkedIn job 4454072038)",
+      "role_type": "Full-time, Hybrid",
+      "location": "Mountain View, CA",
+      "app_status": "Applied",
+      "job_url": "https://www.linkedin.com/jobs/view/4454072038/",
+      "notes": "Exact title not captured (pasted JD had no title) - rename in Roles tab if needed. Experimentation, causal inference, ML, personalization, auctions/matching/market design. 3+ yrs; PhD preferred with 1+ yr. Reads mid-level, works under guidance of seniors."
     }
   ]
 }
