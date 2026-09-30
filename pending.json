@@ -67,6 +67,16 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/snowflake/bf452bd0-2959-4110-8cf5-c6dfe69e92fa",
       "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "Meijer",
+      "role_title": "Data Scientist (Pharmacy Analytics)",
+      "role_type": "Full-time",
+      "location": "Grand Rapids, MI",
+      "app_status": "Applied",
+      "job_url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids%2C-MI/Data-Scientist_R000705566",
+      "date_added": "2026-09-30"
     }
   ]
 }
