@@ -1,3 +1,12 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "update_recruiter",
+      "company": "IBM",
+      "role_title": "Sr Data Scientist",
+      "recruiter_name": "Madeline Blansfield",
+      "recruiter_linkedin": "linkedin.com/in/madeline-laycock/",
+      "outreach_status": "Reached out - LinKedIn connection sent"
+    }
+  C("}
 }
