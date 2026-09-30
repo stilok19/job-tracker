@@ -137,6 +137,16 @@
       "app_status": "Applied",
       "job_url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Data-Scientist_3166863-1",
       "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "Capital One",
+      "role_title": "Senior Associate, Data Scientist - Recommendation & Personalization Systems",
+      "role_type": "Full-time",
+      "location": "New York, NY / McLean, VA / San Jose, CA",
+      "app_status": "Applied",
+      "job_url": "https://www.capitalonecareers.com/job/-/-/234/100780469040",
+      "date_added": "2026-09-30"
     }
   ]
 }
