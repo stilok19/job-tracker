@@ -1,16 +1,3 @@
 {
-  "queue": [
-    {
-      "action": "update_role",
-      "company": "Planview",
-      "role_title": "Data Scientist",
-      "app_status": "Rejected"
-    },
-    {
-      "action": "update_role",
-      "company": "PhaseV",
-      "role_title": "Senior Data Scientist",
-      "app_status": "Rejected"
-    }
-  ]
+  "queue": []
 }
