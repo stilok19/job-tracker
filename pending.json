@@ -47,6 +47,16 @@
       "app_status": "Applied",
       "job_url": "https://jobs.ashbyhq.com/whoop/7ec610fd-7d24-42da-acfc-728d983a57b3",
       "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "Target",
+      "role_title": "Sr Data Analyst - Marketing Analytics",
+      "role_type": "Full-time",
+      "location": "Minneapolis, MN (Hybrid)",
+      "app_status": "Applied",
+      "job_url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Sr-Data-Analyst---Marketing-Analytics_R0000450976",
+      "date_added": "2026-09-30"
     }
   ]
 }
