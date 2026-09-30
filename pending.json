@@ -37,6 +37,16 @@
       "app_status": "Applied",
       "job_url": "https://jobs.cvshealth.com/us/en/job/R0916261/Senior-Data-Scientist-Commercial-Product-Strategy",
       "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "WHOOP",
+      "role_title": "Senior Business Analyst (Growth Marketing)",
+      "role_type": "Full-time",
+      "location": "Boston, MA",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/whoop/7ec610fd-7d24-42da-acfc-728d983a57b3",
+      "date_added": "2026-09-30"
     }
   ]
 }
