@@ -27,6 +27,16 @@
       "recruiter_name": "Madeline Blansfield",
       "recruiter_linkedin": "https://www.linkedin.com/in/madeline-laycock/",
       "outreach_status": "Reached out - LinkedIn connection sent"
+    },
+    {
+      "action": "add",
+      "company": "CVS Health",
+      "role_title": "Senior Data Scientist - Commercial Product Strategy",
+      "role_type": "Full-time",
+      "location": "New York, NY",
+      "app_status": "Applied",
+      "job_url": "https://jobs.cvshealth.com/us/en/job/R0916261/Senior-Data-Scientist-Commercial-Product-Strategy",
+      "date_added": "2026-09-30"
     }
   ]
 }
