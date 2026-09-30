@@ -127,6 +127,16 @@
       "app_status": "Applied",
       "job_url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Senior-Data-Scientist_JR-119686",
       "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "HP",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time",
+      "location": "Not specified",
+      "app_status": "Applied",
+      "job_url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Data-Scientist_3166863-1",
+      "date_added": "2026-09-30"
     }
   ]
 }
