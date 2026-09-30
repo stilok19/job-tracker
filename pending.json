@@ -117,6 +117,16 @@
       "app_status": "Applied",
       "job_url": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43103",
       "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "Sony (PlayStation / SEPS)",
+      "role_title": "Senior Data Scientist - Payments, Subscriptions & Risk",
+      "role_type": "Full-time",
+      "location": "Not specified",
+      "app_status": "Applied",
+      "job_url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Senior-Data-Scientist_JR-119686",
+      "date_added": "2026-09-30"
     }
   ]
 }
