@@ -107,6 +107,16 @@
       "app_status": "Applied",
       "job_url": "https://careers.airbnb.com/positions/8207084/",
       "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "Hertz",
+      "role_title": "Sr Data Scientist - Data Science & Insights",
+      "role_type": "Full-time",
+      "location": "Not specified",
+      "app_status": "Applied",
+      "job_url": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43103",
+      "date_added": "2026-09-30"
     }
   ]
 }
