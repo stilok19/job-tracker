@@ -1,12 +1,32 @@
 {
   "queue": [
     {
-      "action": "update_recruiter",
-      "company": "IBM",
+      "action": "add",
+      "company": "Confluent",
+      "role_title": "Data Scientist - Product",
+      "role_type": "Full-time",
+      "location": "New York / Boston / Multiple US",
+      "app_status": "Applied",
+      "job_url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128216&source=WEB_Search_NA",
+      "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "US Foods",
       "role_title": "Sr Data Scientist",
+      "role_type": "Full-time",
+      "location": "Remote (US)",
+      "app_status": "Applied",
+      "job_url": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Sr-Data-Scientist--remote-_R282175-1",
+      "date_added": "2026-09-30"
+    },
+    {
+      "action": "add_recruiter",
+      "company": "Confluent",
+      "role_title": "Data Scientist - Product",
       "recruiter_name": "Madeline Blansfield",
-      "recruiter_linkedin": "linkedin.com/in/madeline-laycock/",
-      "outreach_status": "Reached out - LinKedIn connection sent"
+      "recruiter_linkedin": "https://www.linkedin.com/in/madeline-laycock/",
+      "outreach_status": "Reached out - LinkedIn connection sent"
     }
-  C("}
+  ]
 }
