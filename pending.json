@@ -57,6 +57,16 @@
       "app_status": "Applied",
       "job_url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Sr-Data-Analyst---Marketing-Analytics_R0000450976",
       "date_added": "2026-09-30"
+    },
+    {
+      "action": "add",
+      "company": "Snowflake",
+      "role_title": "Senior Analyst, GTM Analytics",
+      "role_type": "Full-time",
+      "location": "Menlo Park, CA (Hybrid)",
+      "app_status": "Applied",
+      "job_url": "https://jobs.ashbyhq.com/snowflake/bf452bd0-2959-4110-8cf5-c6dfe69e92fa",
+      "date_added": "2026-09-30"
     }
   ]
 }
