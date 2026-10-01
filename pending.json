@@ -19,6 +19,16 @@
       "app_status": "Applied",
       "job_url": "https://careers.everquote.com/job/?gh_jid=8008555003",
       "date_added": "2026-10-01"
+    },
+    {
+      "action": "add",
+      "company": "Brex",
+      "role_title": "Data Scientist II, Applied ML",
+      "role_type": "Full-time",
+      "location": "San Francisco, CA",
+      "app_status": "Applied",
+      "job_url": "https://www.brex.com/careers/8783482002",
+      "date_added": "2026-10-01"
     }
   ]
 }
