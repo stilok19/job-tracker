@@ -69,6 +69,16 @@
       "app_status": "Applied",
       "job_url": "https://stripe.com/careers/listing/data-scientist/5601879",
       "date_added": "2026-10-01"
+    },
+    {
+      "action": "add",
+      "company": "Misfits Market",
+      "role_title": "Senior Data Analyst, Experimentation",
+      "role_type": "Full-time",
+      "location": "Remote (US)",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/misfitsmarket/jobs/7516411003",
+      "date_added": "2026-10-01"
     }
   ]
 }
