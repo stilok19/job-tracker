@@ -39,6 +39,16 @@
       "app_status": "Applied",
       "job_url": "https://jobs.lever.co/cimgroup/fc13cedc-01dc-458e-9f6b-3fabbfa12c7a",
       "date_added": "2026-10-01"
+    },
+    {
+      "action": "add",
+      "company": "Maven Clinic",
+      "role_title": "Senior Decision Scientist, Measurement & Insights",
+      "role_type": "Full-time",
+      "location": "New York, NY / Remote (Hub cities)",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/mavenclinic/jobs/8791893002",
+      "date_added": "2026-10-01"
     }
   ]
 }
