@@ -59,6 +59,16 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/truebill/jobs/7820884003",
       "date_added": "2026-10-01"
+    },
+    {
+      "action": "add",
+      "company": "Stripe",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time",
+      "location": "New York / Seattle",
+      "app_status": "Applied",
+      "job_url": "https://stripe.com/careers/listing/data-scientist/5601879",
+      "date_added": "2026-10-01"
     }
   ]
 }
