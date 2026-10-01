@@ -1,3 +1,14 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "company": "Keurig Dr Pepper",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time",
+      "location": "US (remote eligible)",
+      "app_status": "Applied",
+      "job_url": "https://apply.keurigdrpepper.com/careers?domain=kdrp.com&pid=1305714249618",
+      "date_added": "2026-10-01"
+    }
+  ]
 }
