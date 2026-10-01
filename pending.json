@@ -29,6 +29,16 @@
       "app_status": "Applied",
       "job_url": "https://www.brex.com/careers/8783482002",
       "date_added": "2026-10-01"
+    },
+    {
+      "action": "add",
+      "company": "CIM Group",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time",
+      "location": "Los Angeles, CA (On-site)",
+      "app_status": "Applied",
+      "job_url": "https://jobs.lever.co/cimgroup/fc13cedc-01dc-458e-9f6b-3fabbfa12c7a",
+      "date_added": "2026-10-01"
     }
   ]
 }
