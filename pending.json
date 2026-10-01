@@ -9,6 +9,16 @@
       "app_status": "Applied",
       "job_url": "https://apply.keurigdrpepper.com/careers?domain=kdrp.com&pid=1305714249618",
       "date_added": "2026-10-01"
+    },
+    {
+      "action": "add",
+      "company": "EverQuote",
+      "role_title": "Data Scientist",
+      "role_type": "Full-time",
+      "location": "Cambridge, MA (Hybrid)",
+      "app_status": "Applied",
+      "job_url": "https://careers.everquote.com/job/?gh_jid=8008555003",
+      "date_added": "2026-10-01"
     }
   ]
 }
