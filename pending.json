@@ -49,6 +49,16 @@
       "app_status": "Applied",
       "job_url": "https://job-boards.greenhouse.io/mavenclinic/jobs/8791893002",
       "date_added": "2026-10-01"
+    },
+    {
+      "action": "add",
+      "company": "Rocket Money",
+      "role_title": "Senior Data Scientist, Growth Marketing",
+      "role_type": "Full-time",
+      "location": "Multiple (NYC, SF, DC, Detroit, Phoenix, Miami, Denver)",
+      "app_status": "Applied",
+      "job_url": "https://job-boards.greenhouse.io/truebill/jobs/7820884003",
+      "date_added": "2026-10-01"
     }
   ]
 }
