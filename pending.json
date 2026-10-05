@@ -11,6 +11,12 @@
       "company": "Cargill",
       "role_title": "Senior Data Scientist, Research and Development",
       "app_status": "Rejected"
+    },
+    {
+      "action": "update_role",
+      "company": "Fospha",
+      "role_title": "Graduate Marketing Scientist",
+      "app_status": "Rejected"
     }
   ]
 }
