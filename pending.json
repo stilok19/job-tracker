@@ -1,3 +1,10 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "update_role",
+      "company": "Fanatics",
+      "role_title": "Data Scientist I",
+      "app_status": "Rejected"
+    }
+  ]
 }
