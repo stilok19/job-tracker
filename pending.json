@@ -5,6 +5,12 @@
       "company": "Fanatics",
       "role_title": "Data Scientist I",
       "app_status": "Rejected"
+    },
+    {
+      "action": "update_role",
+      "company": "Cargill",
+      "role_title": "Senior Data Scientist, Research and Development",
+      "app_status": "Rejected"
     }
   ]
 }
