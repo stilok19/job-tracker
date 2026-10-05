@@ -1,28 +1,3 @@
 {
-  "queue": [
-    {
-      "action": "update_role",
-      "company": "Fanatics",
-      "role_title": "Data Scientist I",
-      "app_status": "Rejected"
-    },
-    {
-      "action": "update_role",
-      "company": "Cargill",
-      "role_title": "Senior Data Scientist, Research and Development",
-      "app_status": "Rejected"
-    },
-    {
-      "action": "update_role",
-      "company": "Fospha",
-      "role_title": "Graduate Marketing Scientist",
-      "app_status": "Rejected"
-    },
-    {
-      "action": "update_role",
-      "company": "Nestle",
-      "role_title": "Senior Analyst Marketing Analytics",
-      "app_status": "Rejected"
-    }
-  ]
+  "queue": []
 }
