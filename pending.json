@@ -17,6 +17,12 @@
       "company": "Fospha",
       "role_title": "Graduate Marketing Scientist",
       "app_status": "Rejected"
+    },
+    {
+      "action": "update_role",
+      "company": "Nestle",
+      "role_title": "Senior Analyst Marketing Analytics",
+      "app_status": "Rejected"
     }
   ]
 }
