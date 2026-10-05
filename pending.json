@@ -1,3 +1,14 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "company": "Duolingo",
+      "role_title": "Senior Data Scientist, User Growth",
+      "role_type": "Full-time",
+      "location": "New York, NY / Pittsburgh, PA",
+      "app_status": "Applied",
+      "job_url": "https://careers.duolingo.com/jobs/8750527002",
+      "date_added": "2026-10-05"
+    }
+  ]
 }
