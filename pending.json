@@ -1,14 +1,3 @@
 {
-  "queue": [
-    {
-      "action": "add",
-      "company": "Alo Yoga",
-      "role_title": "Lead Data Analyst",
-      "role_type": "Full-time",
-      "location": "Beverly Hills, CA (On-site)",
-      "app_status": "Applied",
-      "job_url": "https://job-boards.greenhouse.io/aloyoga/jobs/6188717004",
-      "date_added": "2026-10-07"
-    }
-  ]
+  "queue": []
 }
