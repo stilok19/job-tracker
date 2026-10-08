@@ -1,3 +1,14 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "company": "Adonis",
+      "role_title": "Senior Data Scientist",
+      "role_type": "Full-time",
+      "location": "Not specified (in-office company)",
+      "app_status": "Applied",
+      "job_url": "https://adonis.io/careers?ashby_jid=c1f731b4-b32c-4997-9181-8902856f195b",
+      "date_added": "2026-10-08"
+    }
+  ]
 }
