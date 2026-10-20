@@ -1,3 +1,14 @@
 {
-  "queue": []
+  "queue": [
+    {
+      "action": "add",
+      "company": "DoorDash",
+      "role_title": "Data Scientist / Senior Data Scientist",
+      "role_type": "Full-time",
+      "location": "San Francisco, Seattle, New York, Los Angeles, Chicago, Austin, Washington DC",
+      "app_status": "Applied",
+      "job_url": "https://careersatdoordash.com/jobs/data-scientist-senior-data-scientist/6103225/",
+      "date_added": "2026-10-20"
+    }
+  ]
 }
