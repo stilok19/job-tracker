@@ -1,14 +1,3 @@
 {
-  "queue": [
-    {
-      "action": "add",
-      "company": "Oura",
-      "role_title": "Senior Data Scientist - Marketing",
-      "role_type": "Full-time",
-      "location": "Remote - United States",
-      "app_status": "Applied",
-      "job_url": "https://job-boards.greenhouse.io/oura/jobs/4373152009",
-      "date_added": "2026-10-22"
-    }
-  ]
+  "queue": []
 }
