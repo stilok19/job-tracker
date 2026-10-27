@@ -1,14 +1,3 @@
 {
-  "queue": [
-    {
-      "action": "add",
-      "company": "Reverb",
-      "role_title": "Product/Ops Data Scientist",
-      "role_type": "Full-time",
-      "location": "Chicago, IL (hybrid)",
-      "app_status": "Applied",
-      "job_url": "https://ats.rippling.com/reverb-careers/jobs/256f8a28-992e-4e9c-b4d6-447b0beea802",
-      "date_added": "2026-10-27"
-    }
-  ]
+  "queue": []
 }
